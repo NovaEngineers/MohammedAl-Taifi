@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// Mohamed I. Al-Taifi
+
 main(){
 	int array[10], maxElement=array[1], minElement=array[0], sumElements=0;
 	

@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// Mohamed I. Al-Taifi
+
 main(){
 	int array[10] = {4,2,4,6,3,7,8,2,5,4}, search, counter = 0;
 	
